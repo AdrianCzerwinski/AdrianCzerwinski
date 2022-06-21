@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Java, Dart (Flutter)**
 
-- 👨‍💻 All of my projects are available at [https://adrianczerwinski.github.io/](https://adrianczerwinski.github.io/)
+- 👨‍💻 Sample projects are available at [https://adrianczerwinski.github.io/](https://adrianczerwinski.github.io/)
 
 - 📫 How to reach me **adrczer@gmail.com**
 
