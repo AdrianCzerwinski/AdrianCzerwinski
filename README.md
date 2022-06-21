@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
+<h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">A junior android developer from Poland</h3>
 
 - 🔭 I’m currently working on [Odbiory App](https://github.com/AdrianCzerwinski/odbiory_sample)
