@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Odbiory App](https://github.com/AdrianCzerwinski/odbiory_sample)
 
-- 🌱 I’m currently learning **Kotlin, Java, Dart (Flutter)**
+- 🌱 I’m currently learning **Coroutines, RXJava,
 
 - 👨‍💻 Sample projects are available at [https://adrianczerwinski.github.io/](https://adrianczerwinski.github.io/)
 
