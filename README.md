@@ -1,15 +1,11 @@
 <h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">A junior android developer from Poland</h3>
 
-- 🔭 I’m currently working on [Odbiory App](https://github.com/AdrianCzerwinski/odbiory_sample)
+- 🔭 I’m currently working on simple invoicer app that is going to be released mid 2023
 
-- 🌱 I’m currently learning **Coroutines, RXJava,
-
-- 👨‍💻 Sample projects are available at [https://adrianczerwinski.github.io/](https://adrianczerwinski.github.io/)
+- 🌱 I’m currently working on my Kotlin and SOLID skills
 
 - 📫 How to reach me **adrczer@gmail.com**
-
-- 📄 Know about my experiences [https://adrianczerwinski.github.io/](https://adrianczerwinski.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
