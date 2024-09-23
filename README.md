@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">An Android Developer from Poland</h3>
 
-- 🔭 I’m currently working on simple invoicer app that is going to be released late 2023
-
-- 🌱 I’m currently working on my clean architecture skills and plans to start a journey with Flutter
+- 🔭 I’m currently working on Compose Multiplatform App
 
 - 📫 How to reach me **adrczer@gmail.com**
 
